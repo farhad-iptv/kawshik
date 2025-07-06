@@ -1,0 +1,11 @@
+The following images are needed for the website:
+
+1. hero-image.jpg - A circular image of a person learning
+2. tech-course.jpg - Technology course thumbnail
+3. leadership-course.jpg - Leadership course thumbnail
+4. soft-skills.jpg - Soft skills course thumbnail
+5. mentor-1.jpg - Mentor Sarah Johnson's photo
+6. mentor-2.jpg - Mentor Michael Chen's photo
+7. mentor-3.jpg - Mentor Emma Davis's photo
+
+Please add appropriate images to this directory. 
